@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <g transform="translate(200 150)">
+    <circle cx="0" cy="0" r="80" fill="#4CAF50" opacity="0.1"/>
+    <g transform="translate(-40 -40)">
+      <circle cx="0" cy="0" r="30" fill="#2E7D32"/>
+      <path d="M-15 0h30M0 -15v30" stroke="white" stroke-width="4"/>
+    </g>
+    <g transform="translate(40 40)">
+      <circle cx="0" cy="0" r="30" fill="#2E7D32"/>
+      <path d="M-15 0h30M0 -15v30" stroke="white" stroke-width="4"/>
+    </g>
+  </g>
+  <text x="200" y="250" text-anchor="middle" font-family="Arial" font-size="24" fill="#333">Fresh Starters</text>
+</svg>
